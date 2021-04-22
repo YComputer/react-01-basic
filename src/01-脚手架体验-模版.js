@@ -1,3 +1,6 @@
+/**
+ * 要将本文件中的代码复制粘贴到index.js文件中测试运行
+ */
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";

@@ -1,3 +1,4 @@
+/* index.css中的样式是定义全局样式的，每个组件的样式最好定义在一个和组件同名的.css文件中 */
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
